@@ -77,6 +77,17 @@ a:hover {
   padding: 1px;
   width:60%;
 }
+
+.grid-container2 {
+  margin-left: 1%;
+  display: inline-grid;
+  grid-template-columns: auto auto  ;
+  grid-template-rows:  auto auto auto auto auto ;
+  font-family: Merriweather, serif;
+  padding: 1px;
+  width:60%;
+}
+
 /*
 .options-metrics-grids {
 
@@ -228,10 +239,6 @@ text-decoration: underline;
   line-height: 2 ;
 }
 
-.equitymetricsrow {
-  height: 50%;
-  width:100%;
-}
 .bottom-cloud {
 
   position:absolute;
