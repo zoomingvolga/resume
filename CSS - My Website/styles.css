@@ -16,7 +16,6 @@ body {
 
 h1 {
   font-size: 3rem;
-  margin : 50px auto 0 auto;
   line-height: 2;
   width:20%;
   margin: 0 auto 0 auto;
@@ -93,7 +92,7 @@ a:hover {
 
   display: inline-grid;
   grid-template-rows: 100px 200px 200x 100px;
-  grid-template-columns: 70% 30%  ;
+  grid-template-columns: 80% 30%  ;
   font-family: Merriweather, serif;
   font-size: 0.7rem;
   padding: 1;
@@ -102,7 +101,7 @@ a:hover {
   padding-bottom: 5%;
   margin-bottom: 2%;
   position: sticky;
-  max-width: 250px;
+  max-width: 300px;
   max-height: 200px;
 } */
 
@@ -195,8 +194,8 @@ text-decoration: underline;
 .metricsimage {
  width:25%;
  padding-top: 2%;
- padding-bottom: 1%;
- margin-bottom: 1%;
+ padding-bottom: 2%;
+ margin-bottom: 2%;
 
 }
 
