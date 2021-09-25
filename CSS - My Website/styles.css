@@ -77,7 +77,7 @@ a:hover {
   padding: 1px;
   width:60%;
 }
-
+/*
 .options-metrics-grids {
 
   display: inline-grid;
@@ -89,10 +89,11 @@ a:hover {
   margin-top: 2%;
   padding-top: 2%;
   padding-bottom: 5%;
+  margin-bottom: 2%;
   position: sticky;
   max-width: 250px;
   max-height: 200px;
-}
+} */
 
 .grid-item {
   border: 1px solid rgba(0, 0, 0, 0.8) ;
@@ -180,6 +181,14 @@ text-decoration: underline;
  margin-right: 30px;
 }
 
+.metricsimage {
+ width:25%;
+ padding-top: 2%;
+ padding-bottom: 1%;
+ margin-bottom: 1%;
+
+}
+
 .actualcurveimage {
  width:40%;
  padding-bottom: 2%;
@@ -219,6 +228,10 @@ text-decoration: underline;
   line-height: 2 ;
 }
 
+.equitymetricsrow {
+  height: 50%;
+  width:100%;
+}
 .bottom-cloud {
 
   position:absolute;
