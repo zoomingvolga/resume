@@ -161,7 +161,7 @@ text-decoration: underline;
  padding-bottom: 5%;
  float:left;
  margin-right: 5%;
- margin-bottom: 4%;
+ margin-bottom: 5%;
 }
 
 .skillimages2 {
@@ -211,7 +211,7 @@ text-decoration: underline;
 .equitycurve {
   padding-left: 15%;
   text-align: left;
-  margin:5% auto 5% auto;
+  margin:3% auto 5% auto;
   width:70%;
   line-height: 2 ;
 }
